@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasketballService", "BasketballService\BasketballService.csproj", "{083E2326-A91D-4AE7-9B34-35444137EC69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasketballService.Tests", "BasketballService.Tests\BasketballService.Tests.csproj", "{883488A5-F7AE-4E9B-A943-1FF24BD507A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{083E2326-A91D-4AE7-9B34-35444137EC69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{083E2326-A91D-4AE7-9B34-35444137EC69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{083E2326-A91D-4AE7-9B34-35444137EC69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{083E2326-A91D-4AE7-9B34-35444137EC69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{883488A5-F7AE-4E9B-A943-1FF24BD507A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{883488A5-F7AE-4E9B-A943-1FF24BD507A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{883488A5-F7AE-4E9B-A943-1FF24BD507A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{883488A5-F7AE-4E9B-A943-1FF24BD507A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5783B5A1-7930-4CD4-A165-EB20A58DE60A}
+	EndGlobalSection
+EndGlobal
